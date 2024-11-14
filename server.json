@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-08T22:24:47.708Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2023-04-08T22:20:47.708Z"
+    },
+    {
+      "description": "Celular",
+      "category": "Venda",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2023-04-12T01:59:49.334Z",
+      "id": 3
+    }
+  ]
+}
